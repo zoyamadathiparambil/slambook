@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/06/Desktop-Dreamcatcher-HD-Wallpapers-Free-Download.jpg);
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size: 100%;
+}
+
+div{
+    background-color: blanchedalmond;
+    margin-right: 500px;
+    margin-left: 500px;
+    text-align: center;
+    border: 10px solid coral;
+    border-radius: 10px;
+    color: rgb(5, 8, 167);
+}
+
+h1{
+    text-decoration: underline;
+}
+
+h4{
+    text-align: right;
+    margin-right: 25px;
+}
+
